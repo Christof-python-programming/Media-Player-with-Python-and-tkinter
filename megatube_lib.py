@@ -1,7 +1,7 @@
 """
     __future_releases__ = None
     __copyright__ = by Christof
-    __author__ = Christof Haidegger
+    __author__ = Christof
     __date__ = 01.06.2021
     __version__ 1.0
     __test_and_debugging__ = by Christof
