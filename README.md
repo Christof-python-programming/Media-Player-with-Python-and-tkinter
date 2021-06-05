@@ -27,6 +27,8 @@ A library to create easy a media player using python and tkinter
          directory
      
   -> See in my Youtube tutorial (German) Link:
+  
+  -> Code we have written on the Youtube totorial: MediaPlayer.py
 
 
 
