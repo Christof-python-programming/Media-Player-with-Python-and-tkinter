@@ -43,7 +43,7 @@ media_player.set_size(media_player.pause_button, (10, 1))
 media_player.set_size(media_player.interface, (1200, 550))
 media_player.progress_bar_length = 830
 
-'# get image from song witch is actually playing'
+'# get image from song which is actually playing'
 media_player.create_image_canvas((50, 25))
 
 '# Place objects'
