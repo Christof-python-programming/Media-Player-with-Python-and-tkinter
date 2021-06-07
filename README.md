@@ -12,6 +12,8 @@ A library to create easy a media player using python and tkinter
     
     2. python-vlc -> included to the vlc media player
     
+    3. Pillow
+    
   On Linux:
   
     1. opencv-python
@@ -23,8 +25,9 @@ A library to create easy a media player using python and tkinter
 # Usage:
 
   -> Generally:
-     Put the file megatube_lib.py in the same directory as your main file or if you want, you can put it into your Pythons library 
+     Put the file megatube_lib.py in the same directory as your main file or if you want, you can put it into your Python's library 
          directory
+     Run the MediaPlayer.py file to test it.
      
   -> See in my Youtube tutorial (German) Link: https://youtu.be/ccOuphUpyww
   
